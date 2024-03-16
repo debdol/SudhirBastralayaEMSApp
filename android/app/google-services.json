@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403324020483",
+    "project_id": "sudhirproject-b8ff5",
+    "storage_bucket": "sudhirproject-b8ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403324020483:android:d8e9b785851c25ca426b36",
+        "android_client_info": {
+          "package_name": "com.sudhirproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB04H0oRWoHuzRkJJZWzObyNoAmp4AHTL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

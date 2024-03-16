@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/Fonts/Amita-Bold.ttf",
+      "sha1": "e2b3657609f6e6a7ad6b2ffc8304776c6ce7fb2d"
+    },
+    {
+      "path": "assets/Fonts/Amita-Regular.ttf",
+      "sha1": "8abb63971b097f35e50ddcdca13c867cb77b29fe"
+    },
+    {
+      "path": "assets/Fonts/Forza-Black.ttf",
+      "sha1": "89db6d44c3f78d57b4717954bf5bfac3bbb7f44f"
+    },
+    {
+      "path": "assets/Fonts/Forza-Bold.ttf",
+      "sha1": "28c86b3963cf1bc343a95aefcfb7ee3ba1ed9365"
+    },
+    {
+      "path": "assets/Fonts/MontserratAlternates-Black.ttf",
+      "sha1": "ddfe711ee7b948f4105986d363e00f98b192d52c"
+    },
+    {
+      "path": "assets/Fonts/MontserratAlternates-Bold.ttf",
+      "sha1": "ee2c78fd0af8aa895f15a93f9a61e13a960c17f3"
+    },
+    {
+      "path": "assets/Fonts/MontserratAlternates-Regular.ttf",
+      "sha1": "8a441a013bb65edb42d747efc85caba6d4149464"
+    },
+    {
+      "path": "assets/Fonts/MontserratAlternates-Thin.ttf",
+      "sha1": "b54b998a0b11a533084557908847be001e42c534"
+    }
+  ]
+}

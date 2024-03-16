@@ -1,0 +1,13 @@
+export const baseUrl = "http://13.233.230.61:80/";
+// export const baseUrl = "http://192.168.0.106:3000/";
+// export const baseUrl = "http://192.168.1.106:3000/";
+export const showEmpData = `${baseUrl}show-emp-data`;
+export const logIn = `${baseUrl}login-emp`;
+export const forgotPassWord = `${baseUrl}forgot-password-emp`;
+export const varifyOtp = `${baseUrl}verify-otp`;
+export const resetPassword = `${baseUrl}reset-password-emp`;
+export const editProfile = `${baseUrl}edit-profile-emp`;
+export const editProfileImage = `${baseUrl}update-profile-image`;
+export const attenDance = `${baseUrl}attendance`;
+export const notifications = `${baseUrl}notifications`;
+export const deleteNotifications = `${baseUrl}delete-notifications`;
