@@ -95,8 +95,8 @@ const App = () => {
       getNotificationArray: setNotificationArray,
       getNotificationCounts: setNotificationCounts
     }}>
-      {/* {mainPage} */}
-      <AllPage/>
+      {mainPage}
+      {/* <AllPage/> */}
     </GlobalData.Provider>
   );
 }
